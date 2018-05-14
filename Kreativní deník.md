@@ -2,7 +2,7 @@
 
 * * *
 # Šablona
-## Tři pozitivní věci a proč mi přišly pěkné a proč?
+## Tři pozitivní věci a proč mi přišly pěkné?
 1. 
 2. 
 3. 
@@ -40,7 +40,7 @@ Nic? :D
 
 
 # 1. Den (13.5.2018)
-## Tři pozitivní věci a proč mi přišly pěkné a proč?
+## Tři pozitivní věci a proč mi přišly pěkné?
 
 1. Projížďka autem po přírodě. Bylo pěkné počasí a tráva krásně zelená, navíc ten čerstvá vzduch - nádhera.
 2. Vytrhal jsem plevel na zahrádce. Kromě toho, že bylo hezky a zvelebil jsem si kousek zahrady jsem se navíc i uklidnil a odstresoval.
@@ -59,11 +59,9 @@ Přečetl jsem si zajímavý [článek o Google Assistant](https://www.cnews.cz/
 Počítačová myš je úžasné zařízení, bez kterého si nedovedu představit jediný den. Jako první se nabízí použití jako nástroje pro ovládání kurzoru na obrazovce počítače. V práci mám myš s programovatelnými tlačítky, takže je mnohem snadnější používat všemi milovanou funkci kopírovat-vložit. K čemu dalšímu by se dala myš použít? Vždycky s ní můžete někoho praštit. Když myš "umře", tak se dá použít jako těžítko. Drátek by šel v krajní nouzi použít jako tkanička do bot (musel by to být hodně dlouhý drátek, já vím). Z bezdrátové myši by šly použít baterie, pokud by nebyly samozřejmě vybité. Konec konců se myš dá rozebrat a vytřídit na plast a elektroniku. Šikovní domácí kutilové by s obsaženými obvody a laserem určitě dokázaly divy.
 
 ## Kreativní nástroj dne: Visual Studio Code
-[Visual Studio Code](https://code.visualstudio.com/) je velice modulární nástroj primárně určený k psaní zdrojového kódu. Nicméně díky své modularitě umožňuje psát dokumenty v Markdownu a potom je i exportovat do PDF. Vyhovuje mi především nerušivým prostředím a tím jak se ovládá. Osobně tuhle aplikaci považuji za to nejlepší, co z Microsoftu kdy vypadlo.
+[Visual Studio Code](https://code.visualstudio.com/) je velice modulární nástroj primárně určený k psaní zdrojových kódů. Nicméně je v této aplikaci možné psát dokumenty v Markdownu a potom je i exportovat do PDF. Vyhovuje mi především nerušivým prostředím a tím jak se ovládá. Osobně tuhle aplikaci považuji za to nejlepší, co kdy z Microsoftu vypadlo.
 
 ## Zajímavost dne: Píšu deník... včas!
-*proč se mi to zdá neobvyklé a čím se to od jiných událostí liší?*
-
 *"Today is a special day!"* - Těmito slovy začínalo nejedno ráno letních táborů, na které jsem jako mladší jezdil. A čím byl dnešní den speciální? Především tím, že jsem se dostal k tvorbě kreativního deníku dřív jak tři dny před odevzdáním. To na moje skromné poměry považuji za velkolepý úspěch.
 
 ## Dnešní problém s kreativitou
