@@ -31,10 +31,14 @@ Nic? :D
 *proč se to stalo a kdy?*
 
 ## Umělecké utrpení
+
+*Náhodná kresba:*<br>
 ![Náhodná malůvka](den0/maluvka.jpg)
 
+*Zajímavá věc dne:*<br>
 ![Zajímavá věc](den0/zajimava-vec.jpg)
 
+*Zajímavá věc dne s představivostí*<br>
 ![Zajímavá věc s představivostí](den0/zvsp.jpg)
 * * *
 
@@ -70,8 +74,12 @@ Menší problém s kreativitou nastal, když jsem přemýšlel jakou formou tvo�
 Nakonec jsem se rozhodl pro psaní deníku na počítači pomocí značkovacího jazyka Markdown, který je dost jednoduchý, funkční a intuitivní aby mě neomezoval. Navíc jsem si mohl vytvořit šablonu, takže každý den ušetřím pár chvil psaní do počítače.
 
 ## Umělecké utrpení
-![Náhodná malůvka](den0/maluvka.jpg)
 
-![Zajímavá věc](den0/zajimava-vec.jpg)
+*Náhodná kresba:*<br>
+![Náhodná malůvka](den1/maluvka.jpg)
 
-![Zajímavá věc s představivostí](den0/zvsp.jpg)
+*Zajímavá věc dne:*<br>
+![Zajímavá věc](den1/zajimava-vec.jpg)
+
+*Zajímavá věc dne s představivostí*<br>
+![Zajímavá věc s představivostí](den1/zvsp.jpg)
