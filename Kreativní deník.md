@@ -1,58 +1,5 @@
 # **Kreativní deník**
 
-* * *
-
-# Šablona
-
-## Tři pozitivní věci a proč mi přišly pěkné?
-
-1. _
-2. _
-3. _
-
-## Co a proč mě dnes překvapilo
-
-...že ještě žiju.
-
-## Myšlenková mapa dne
-
-![Myšlenková mapa](den0/mapa.png)
-
-*Můžete shrnout oblasti činnosti, ale také zahrnout myšlenky, pocity, dát si zpětnou vazbu, hledat poučení; dívat se na to, jak by šla určitá činnost dne udělat jinak.*
-
-## Co zajímavého jsem dnes přečetl?
-
-Nic? :D
-
-## Popis náhodného předmětu:
-
-*5 minut, k čemu by ta věc mola být dobrá?*
-
-## Kreativní nástroj dne:
-
-*název a použití*
-
-## Zajímavost dne: > _ <
-
-*proč se mi to zdá neobvyklé a čím se to od jiných událostí liší?*
-
-## Dnešní problém s kreativitou
-
-*proč se to stalo a kdy?*
-
-## Umělecké utrpení
-
-*Náhodná kresba:*<br>
-![Náhodná malůvka](den0/maluvka.jpg)
-
-*Zajímavá věc dne:*<br>
-![Zajímavá věc](den0/zv.jpg)
-
-*Zajímavá věc dne s představivostí*<br>
-![Zajímavá věc s představivostí](den0/zvsp.jpg)
-
-* * *
-
 # 1. Den (13.5.2018)
 
 ## Tři pozitivní věci a proč mi přišly pěkné?
@@ -97,7 +44,7 @@ Nakonec jsem se rozhodl pro psaní deníku na počítači pomocí značkovacího
 ![Náhodná malůvka](den1/maluvka.jpg)
 
 *Zajímavá věc dne:*<br>
-![Zajímavá věc](den1/zajimava-vec.jpg)
+![Zajímavá věc](den1/zv.jpg)
 
 *Zajímavá věc dne s představivostí*<br>
 ![Zajímavá věc s představivostí](den1/zvsp.jpg)
@@ -147,7 +94,7 @@ Podobně jako minule se moje kreativní krize projevila při psaní kreativního
 ![Náhodná malůvka](den2/maluvka.jpg)
 
 *Zajímavá věc dne:*<br>
-![Zajímavá věc](den2/zajimava-vec.jpg)
+![Zajímavá věc](den2/zv.jpg)
 
 *Zajímavá věc dne s představivostí*<br>
 ![Zajímavá věc s představivostí](den2/zvsp.jpg)
@@ -240,10 +187,171 @@ Kupodivu jsem dnes na žádný problém s kreativitou nenarazil.
 ## Umělecké utrpení
 
 *Náhodná kresba:*<br>
-![Náhodná malůvka](den0/maluvka.jpg)
+![Náhodná malůvka](den4/maluvka.jpg)
 
 *Zajímavá věc dne:*<br>
-![Zajímavá věc](den0/zv.jpg)
+![Zajímavá věc](den4/zv.jpg)
 
 *Zajímavá věc dne s představivostí*<br>
-![Zajímavá věc s představivostí](den0/zvsp.jpg)
+![Zajímavá věc s představivostí](den4/zvsp.jpg)
+
+# 5. Den (1.6.2018)
+
+## Tři pozitivní věci a proč mi přišly pěkné?
+
+1. Konečně jsem se dostal do knihovny a začal jsem pracovat na jedné seminárce. Je pěkné, že jsou v MZK tak velké studovny a klid na učení. Asi tam budu chodit častěji.
+2. Odpoledne jsme s přítelkyní plánovali zbytek Anglie - mám radost, protože nám vyjde čas na Bodiam castle, který jsem navštívil už hodně dávno a líbilo se mi tam.
+3. Večer jsme se podívali na film, resp. dokument, ve kterém vystupovali jedni známí. Dost jsme se zasmáli, bylo to fajn.
+
+## Co a proč mě dnes překvapilo
+
+Při čekání v budově hlavního nádraží mě zaujala poměrně pracná výzdoba zdí a to i dost vysoko. Na to že většina lidí jen tupě projde dál bylo takové práce možná i škoda.
+
+## Myšlenková mapa dne
+
+![Myšlenková mapa](den5/mapa.png)
+
+## Co zajímavého jsem dnes přečetl?
+
+V rámci přípravy na seminárku jsem si přečetl o [CDISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining), což je sada postupů a procesů, které probíhají během data miningu.
+
+## Popis náhodného předmětu: Nástěnka
+
+Nástěnku si dovede představit asi každý, ale zrovna tak ji každý používá tak trochu k něčemu jinému. Někdo ji opravdu používá k upíchnutí důležitých poznámek, které v průběhu dne, týdne či měsíce s radostí odtrhává nebo je prostě jen plní. Jiní nástěnku používají jako výstavku svých uměleckých děl, které se na ni vlezou. No a pak jsou tu lidé kteří nástěnku buď nemají vůbec nebo ji mají jen jako odkladiště vzpomínek, případně jen jako odkladiště věcí, které by se nehodily na poličku a je dobré je mít na očích. Co se týče alternativnějšího využití nástěnky... menší by šly použít jako obří podtácky. Kreativnější jedinci si z korkových nástěnek můžou udělat hodové umělecké dílo, tím, že do korku vpálí nějaký hezký vzor.
+
+## Kreativní nástroj dne: Google Keep
+
+Google Keep je online nástroj určený k tvorbě jednoduchých poznámek, který čas od času používám. Výhodou je, že poznámky mám po ruce vlastně pořád, protože mám widget na ploše
+
+## Zajímavost dne: České dráhy nejsou až tak hrozné
+
+Ano, ČD mají svoje slabé chvilky (někdy až chvíle), kdy by člověk šel raději pěšky, ale aspoň jedna věc funguje. Na rozdíl od Britských drah si totiž můžeme docela pohodlně kupovat jízdenky online, navíc si je nemusíme tisknout. A taky mobilní aplikace od ČD funguje velice dobře, což se o aplikaci od britských National Rail Enquiries říct nedá. Pro jednou České dráhy nejsou tak špatné.
+
+## Dnešní problém s kreativitou
+
+Jak již tradičně, moje problémy s kreativitou nastávají pokaždé, když musím být kreativní. Tentokrát jsem poměrně dlouho přemýšlel, jaký objekt budu popisovat v rámci tohoto kreativního deníku.
+
+## Umělecké utrpení
+
+*Náhodná kresba:*<br>
+![Náhodná malůvka](den5/maluvka.jpg)
+
+*Zajímavá věc dne:*<br>
+![Zajímavá věc](den5/zv.jpg)
+
+*Zajímavá věc dne s představivostí*<br>
+![Zajímavá věc s představivostí](den5/zvsp.jpg)
+
+# 6. Den (6.6.2018)
+
+## Tři pozitivní věci a proč mi přišly pěkné?
+
+1. Hurá! Jsem za polovinou v tomto děsivém paskvilu, který nazývám kreativním deníkem. Takže už nemusím plnit všechny
+2. Dnes je jeden z dalších dní, kdy se učím na postupovou zkoušku. Užívám si toho, že doma nikdo není - odpočívám od lidí a vychutnávám si krásné počasí.
+3. Večer jsem objevil jsem pár zajímavých písniček, při kterých neusnu a u kterých se mi dobře učí. Uvidím, jak si povedou zítra.
+
+## Co a proč mě dnes překvapilo
+
+Ne úplně příjemným zjištěním bylo, že oproti začátku semestru můj obor opustilo něco mezi 10 a 20 lidmi. To znamená, že nás zbývá už jenom něco kolem 50, což se mi nezdá mnoho. V ISu jsem sice nenašel žádnou oficiální statistiku, ale vycházím z aktivity plnění úkolů na peerblenderu a z počtu lidí, kteří mají až podivně nízké bodové hodnocení v informační vědě (ano, takto vypadá moje prokrastinace - prolézám IS a hledám něco zajímavého).
+
+## Myšlenková mapa dne
+
+![Myšlenková mapa](den6/mapa.png)
+
+## Co zajímavého jsem dnes přečetl?
+
+Na rootu jsem si přečetl zprávičku o tom, že [Microsoft kupuje GitHub](https://www.root.cz/clanky/microsoft-oznamil-koupi-githubu-konkurencni-gitlab-uz-prijima-migranty/), což je portál určený k uchovávání, verzování a sdílení zdrojových kódů. Takhle akvizice vzbudila hodně emocí, dá se říct že i menší paniku. Některé projekty se přesouvají na GitLab, BitBucket a podobné služby. Zajímalo by mě jaká budoucnost čeká na IDE Atom, jehož konkurentem je VSCode (ve kterém píšu i tento kreativní deník). Vlastně má teď Microsoft dva produkty se stejným záměrem i cílovou skupinou.
+
+## Zajímavost dne:
+
+Dnes se v Brně opět konaly ohňostroje Ignis Brunensis, tentokrát na přehradě. Vcelku by se nejednalo až o tak mimořádnou věc, kdyby nebyly slyšet až v Tišnově, který je od přehrady vzdálený asi 13 km vzdušnou čarou. Běžně totiž brněnské ohňostroje u nás slyšet nejdou, ale tentokrát byly asi dobré podmínky pro šíření zvuku na velkou vzdálenost.
+
+## Umělecké utrpení
+
+*Náhodná kresba:*<br>
+![Náhodná malůvka](den6/maluvka.jpg)
+
+*Zajímavá věc dne:*<br>
+![Zajímavá věc](den6/zv.jpg)
+
+*Zajímavá věc dne s představivostí*<br>
+![Zajímavá věc s představivostí](den6/zvsp.jpg)
+
+# 7. Den (7.6.2018)
+
+Můj milý deníčku, dnes ráno jsem se po probuzení vydal s moji drahou sestrou a její pididcerou do Brna za babičkou. Bylo krásně slunečno, možná až trochu moc horko a dusno - alespoň ve vlaku bylo trošku na umřití. Pidiprcek byl naštěstí hodný a cestou ani jednou neplakal. K babičce jsme přijeli tak akorát na oběd, měli jsme nudlovou polívku a kuřecí stehno s rýží. Pak jsme si dali bábovku a ještě nějaké drobné sladkosti až jsme se, snad jako vždycky, přejedli - bylo to fajn. Nakonec jsme se šli projít. Sestra se potom s ubrečeným a unaveným prckem vydala za kamarádkou, zatím co já jsem se vydal do knihovny, kde jsem sestře půjčil knihu o odsunu němců z Brna.
+
+## Myšlenková mapa dne
+
+![Myšlenková mapa](den7/mapa.png)
+
+## Myšlenka dne
+
+- *Je jedno co člověk dělá, ale vždycky se u babičky dobře nají. Delší pobyt by však mohl vést k soudkovatění libovolné postavy.*
+
+# 8. den (11.6.2018)
+
+Dnes byl **den D**, dopoledne na mě čekala postupová zkouška. I přesto že jsem se na ni poslední týden dost intenzivně připravoval, jsem měl z dnešního dne velké obavy.
+*Co když to nezvládnu?* - Přece jen jeden týden není zrovna moc času na naučení se celé látky z informační vědy 1 & 2, dvou okruhů z [Memexu](https://kiskffmu.github.io/memex/) a rychlý průlet metodami knihovnické práce. *Transformaci data* a *nástroje a možnosti internetu* do tohoto utrpení nezahrnuji, protože s těmito předměty jsem nikdy problém neměl.
+
+Navíc se jednalo o první den, pro který byly vypsané termíny...není tedy překvapením, že nás za celý den přišlo jenom 6.
+
+Přišel jsem o 15 minut dřív a tak trochu dle očekávání jsem nikoho na KISKu nepotkal, na termín se mnou byl přihlášený jenom jeden další člověk, tak jsem si říkal, že za chvíli určitě dojde. No, to jsem se pěkně přepočítal. V 11:10 mi už bylo trochu divné, že tam nebyl ani ten další člověk, ale co hůř. On nebyl k sehnání ani můj zkoušející a seminární místnost, kde měla zkouška probíhat, byla zamčená. Po chvilce vnitřní paniky jsem se smutně podíval na agamu a poklidně se usadil na žlutý gauč pod oknem. Chvíli na to se sám od sebe pustil kávovar - tomu už jsem se musel opravdu smát :D nejen že kolem mě nebylo vidět jediného živáčka, ono na KISKu i straší.
+
+Kávovarovému démonovi tenhle malý kousek asi stačil a když viděl, že už mě víc rozhodit nejde, přivolal zkoušejícího. Pan profesor Lorenz se zjevil ve dveřích přímo naproti mě... pitíčko a sešit jehož obsah jsem už ani nevnímal jsem sklidil do batohu a s nejistým úsměvem, krokem a pocitem o věcech budoucích jsem se vydal vstříc jisté smrti.
+
+Nakonec to nebylo až tak hrozné, vytáhl jsem si téma 7b - information retrieval, čili vyhledávání informací. Vlastně ani nevím, které téma by pro mě bylo lepší nebo horší. Rozhodně jsem nevěděl všechno, ale ani jsem nebyl úplně mimo. Ve výsledku mě nejvíc zachránily naučené (ehm...no a taky vhodně vytipované) osobnosti a milníky, které jsem do sebe tlačil horem spodem poslední tři dny (pamatuje ten sešit, který jsem před chvílí zmiňoval?). Po tomto traumatu jsem se šel uklidnit do menzy na České, kde jsem doplnil vypocené litry tekutin velkou porcí šopského salátu - nejsem vegan, vegetarián a ani vitarián, ale Veggie bar má prostě lepší jídla než menza o patro níž.
+
+Potom jsem se vydal do práce, kde mě skoro ani nepoznali jak jsem tam dlouho nebyl. Naštěstí to byl docela klidný den, ale zato výhled na léto vypadá dost děsivě. Čeká nás totiž migrace domény brněnské pobočky...v 8 lidech - jen pro představu, asi o 200 lidí menší pobočku migrovalo 30 lidí a co víme, tak to byl dost chaos. Holt velký nadnárodní korporát nepředstavitelných rozměrů, špatné rozhodnutí a odskáče to spousta lidí.
+
+Po práci jsem utíkal do restaurace VietPalace kde jsem měl sraz s přítelkyní, její kolegyní a jejím přítelem. Samozřejmě jsem měl menší zpoždění protože jsem podcenil rychlost MHD a ještě mi ujel autobus přímo před nosem. Naštěstí na mě nemuseli čekat dlouho a hned jsme šli dovnitř. Bylo fajn po dlouhé době jíst hůlkama, ale upřímně tento pocit pohody se mnou sdílel asi jen přítel od kolegyně přítelkyně (děsivý popis situace, já vím), protože jak přítelkyně tak i její kolegyně toho okometricky moc nesnědly. Potom jsme se vydali do Lužánek, kde jsme si zahráli petang pro líné a neschopné (nevím jak se to správně jmenuje) a udělali jsme si menší piknik. Byl to moc příjemný večer. Nakonec jsme se vydali každý svým směrem. Spal jsem u přítelkyně, ale ráno bylo příšerný - po dvou týdnech, kdy jsem vstával mezi 9 a 11 jsem najednou vstával před šestou ráno. Holt pracující lid těžkej spánek má.
+
+## Myšlenková mapa dne
+
+![Myšlenková mapa](den8/mapa.png)
+
+# 9. den (12.6.2018)
+
+**EVERYTHING IS BROKEN**
+
+- Tento příběh navazuje na předchozí část.
+
+Chvíli po probuzení jsme se vydali směr Královo Pole, kde jsme si s přítelkyní dali sbohem. Ona šla do práce. zatímco já spěchal na nádraží, kde mi před nosem ujel vlak. Po chvilce jel ale další a já už se těšil na svoji měkoučkou postel. Doma jsem si dal krátký powernap, nasnídal se a šel jsem zasadit slunečnice, které mi dala kolegyně od přítelkyně předchozí den. Bude se totiž vzdávat a chce mít slunečnicovou výzdobu, tak jsem jí nabídl, že jí pár slunečnic klidně vypěstuju z čehož byla nadšená. Jen doufám, že z těch slunečnic nebudou mít prvně radost slepice, které rodiče v neděli pořídili. Ty mrchy ozobou úplně všechno, nemají problém ani s břečťanem a nejvíc jim chutná rebarbora, z čehož nemám úplně radost... ale to je jiný příběh, hned vedle toho kachního, o kterém v tomto kreativním deníku nebyla řeč.
+
+Po krátkém relaxu na zahradě jsem si začal číst další knížku *Zeměplochy*, tentokrát *Dámy a pánové*. Jenže po chvíli na mě začal vrčet telefon - na ZUŠce prý po včerejší bouřce přestal jet internet a že co mají dělat. Nakonec bylo třeba abych se do školy vypravil sám a pokusil jsem se problém vyřešit. No, nevyřešil jsem to. Nebo aspoň ne tak jak bych chtěl. Nechci zde mého hodnotitele/moji hodnotitelku zbytečně zatěžovat technikáliemi. Napíšu tedy jen tolik, že jsem na tom strávil necelé 3 hodiny z čehož dvě jsem nechápavě kroutil hlavou nad tím jak je možný, že nemám ani jednu funkční zálohu nastavení od routeru. Jedna záloha měla špatně nastavený rozsah na DHCP serveru a druhá mě nepustila do konfigurace (ne že bych měl špatné heslo, prostě jsem ani nedostal možnost se přihlásit). V obou případech stejně neprocházela žádná komunikace.
+
+Nakonec jsem si vzal router domů na další zkoumání a zbytek sítě nastavil tak, aby nějak fungoval. Hned několikrát jsem si vzpomněl na článek [Everything is broken](https://medium.com/message/everything-is-broken-81e5f33a24e1), o kterém se často zmiňoval Jan Martínek v prvním semestru a ve druhém semestru jsme si ho (naštěstí) měli přečíst v rámci jedné lekce. Opravdu trefné - všechno je rozbité, a nejvíc problémů nastává když má probíhat komunikace mezi dvěma a vícero počítači. Sedí i to, že by věci sice mohly být lepší, ale každý chce být z práce co nejdřív doma a to se týká i mě...mohl jsem se v síti vrtat klidně další hodinu nebo dvě a problém snad vyřešit, ale po včerejšku jsem nebyl úplně fit a tak jsem šal raději domů.
+
+# 10. den (13.6.2018)
+
+**Pozitivní věc dne:** Dnes je poslední den, kdy si vedu tento deník :).
+
+**Myšlenka dne:** *Jednou ze mě bude knihovník... Oook?!*
+
+Ráno jsem se vydal do MZK abych dorazil seminárku do odborných textů. Sice se mi to nepovedlo, ale už mi chybí jen něco málo přes 1000 znaků, takže jsem v klidu..tohle do pátku zvládnu. Když už jsem se nemohl soustředit a potřeboval jsem pauzu, tak jsem se vydal do menzy na oběd. Bohužel musím smutně odvolat co jsem napsal dřív, opravdu nevím jak menza funguje. Chtěl jsem si dát guláš, který byl ukrytý pod volbou 17, jenže udělátory ve výdejních okýnkách berou vždy jen jednu číslici a víc neumí. Nakonec jsem se dopracoval k tomu, že jsem zašel k paní u pokladny a ta mi vydala lísteček, na ten už mi guláš paní kuchařka vydala.
+
+Takto posilněný jsem se vydal do Knihovny na Křižovatce (dále jen křižovatka), kde se běžně starám aby fungovaly počítače a podobné srandy. Tentokrát jsem se však šel zaučit do role plnokrevného knihovníka. Příští týden totiž křižovatka prodělá menší personální krizi a za pultíkem bude potřeba každá ruka. Byla to docela sranda a naštěstí nechodilo moc lidí. Prvně jsem se naučil vracení knížek, spokojeně jsem si pípal knížky do Kohy. Pak jsem si zkoušel rekatalogizaci, kterou knihovníkům na křižovatce opravdu nezávidím a přemýšlím, že když budu mít volný víkend, tak si to zkusím trošku zautomatizovat. Přece jen má Koha zabudovanou SQL konzoly a v tom by byl čert kdyby to nešlo zjednodušit. Poslední vtipnou věc, kterou jsem se naučil bylo samotné půjčování knížek, které není vůbec složité, jen jsem trochu bojoval s razítky a papírovými čtenářskými průkazy. V šest hodin jsem ještě přepočítal kasu a hurá domů.
+
+Nakonec mě ještě napadá, že bych pro zajímavost mohl uvést adresářovou strukturu složky, ve který bydlí tento kreativní deník.
+<br><br><br><br><br>
+```
+.
+|- den[1-10]
+|  |- mapa.png
+|  |- maluvka.jpg
+|  |- zv.jpg
+|  |- zvsp.jpg
+|
+|- Kreativní deník.md
+|- Kreativní deník.pdf
+```
+
+| Název souboru | Účel |
+|---------------|------|
+| mapa.png      | Myšlenková mapa |
+| maluvka.jpg   | Sken náhodné malůvky |
+| zv.jpg        | Sken nákresu věci, která mi ten den připadla zajímavá |
+| zvsp.jpg      | To samé jako v předchozím bodě, jen s využitím *představivosti* |
+
+## Kytička na rozloučenou
+![Mějte se hezky](den10/Sbohem_a_díky_za_ryby.jpg)
